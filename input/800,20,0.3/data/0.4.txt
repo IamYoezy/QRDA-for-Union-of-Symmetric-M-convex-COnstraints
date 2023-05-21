@@ -1,0 +1,411 @@
+.instance: 0
+QRDABorda - ACDABorda : 0.0
+ACDAClaimer - QRDAClaimer : 0.0
+The number of students who strictly prefer QRDA : 0
+instance: 1
+QRDABorda - ACDABorda : 0.49875000000000114
+ACDAClaimer - QRDAClaimer : 27.0
+The number of students who strictly prefer QRDA : 99
+instance: 2
+QRDABorda - ACDABorda : 0.5999999999999996
+ACDAClaimer - QRDAClaimer : 24.0
+The number of students who strictly prefer QRDA : 111
+instance: 3
+QRDABorda - ACDABorda : 0.8025000000000002
+ACDAClaimer - QRDAClaimer : 28.0
+The number of students who strictly prefer QRDA : 174
+instance: 4
+QRDABorda - ACDABorda : 0.6637500000000003
+ACDAClaimer - QRDAClaimer : 35.0
+The number of students who strictly prefer QRDA : 136
+instance: 5
+QRDABorda - ACDABorda : 0.6137499999999996
+ACDAClaimer - QRDAClaimer : 34.0
+The number of students who strictly prefer QRDA : 120
+instance: 6
+QRDABorda - ACDABorda : 0.3637499999999996
+ACDAClaimer - QRDAClaimer : 697.0
+The number of students who strictly prefer QRDA : 74
+instance: 7
+QRDABorda - ACDABorda : 0.6399999999999988
+ACDAClaimer - QRDAClaimer : 37.0
+The number of students who strictly prefer QRDA : 123
+instance: 8
+QRDABorda - ACDABorda : 0.7575000000000003
+ACDAClaimer - QRDAClaimer : 42.0
+The number of students who strictly prefer QRDA : 159
+instance: 9
+QRDABorda - ACDABorda : 0.3312500000000007
+ACDAClaimer - QRDAClaimer : 718.0
+The number of students who strictly prefer QRDA : 75
+.instance: 10
+QRDABorda - ACDABorda : 0.5687499999999996
+ACDAClaimer - QRDAClaimer : 27.0
+The number of students who strictly prefer QRDA : 105
+instance: 11
+QRDABorda - ACDABorda : 0.8512500000000003
+ACDAClaimer - QRDAClaimer : 39.0
+The number of students who strictly prefer QRDA : 162
+instance: 12
+QRDABorda - ACDABorda : 0.317499999999999
+ACDAClaimer - QRDAClaimer : 24.0
+The number of students who strictly prefer QRDA : 74
+instance: 13
+QRDABorda - ACDABorda : 0.338750000000001
+ACDAClaimer - QRDAClaimer : 26.0
+The number of students who strictly prefer QRDA : 81
+instance: 14
+QRDABorda - ACDABorda : 0.0
+ACDAClaimer - QRDAClaimer : 0.0
+The number of students who strictly prefer QRDA : 0
+instance: 15
+QRDABorda - ACDABorda : 0.7987500000000001
+ACDAClaimer - QRDAClaimer : 31.0
+The number of students who strictly prefer QRDA : 151
+instance: 16
+QRDABorda - ACDABorda : 0.27749999999999986
+ACDAClaimer - QRDAClaimer : 144.0
+The number of students who strictly prefer QRDA : 56
+instance: 17
+QRDABorda - ACDABorda : 0.5599999999999987
+ACDAClaimer - QRDAClaimer : 23.0
+The number of students who strictly prefer QRDA : 119
+instance: 18
+QRDABorda - ACDABorda : 0.7787500000000005
+ACDAClaimer - QRDAClaimer : 34.0
+The number of students who strictly prefer QRDA : 149
+instance: 19
+QRDABorda - ACDABorda : 0.24374999999999858
+ACDAClaimer - QRDAClaimer : 142.0
+The number of students who strictly prefer QRDA : 53
+.instance: 20
+QRDABorda - ACDABorda : 0.3362499999999997
+ACDAClaimer - QRDAClaimer : 171.0
+The number of students who strictly prefer QRDA : 73
+instance: 21
+QRDABorda - ACDABorda : 0.0
+ACDAClaimer - QRDAClaimer : 0.0
+The number of students who strictly prefer QRDA : 0
+instance: 22
+QRDABorda - ACDABorda : 0.7462499999999999
+ACDAClaimer - QRDAClaimer : 36.0
+The number of students who strictly prefer QRDA : 139
+instance: 23
+QRDABorda - ACDABorda : 0.7575000000000003
+ACDAClaimer - QRDAClaimer : 53.0
+The number of students who strictly prefer QRDA : 165
+instance: 24
+QRDABorda - ACDABorda : 0.36125000000000007
+ACDAClaimer - QRDAClaimer : 736.0
+The number of students who strictly prefer QRDA : 75
+instance: 25
+QRDABorda - ACDABorda : 0.9112500000000008
+ACDAClaimer - QRDAClaimer : 55.0
+The number of students who strictly prefer QRDA : 184
+instance: 26
+QRDABorda - ACDABorda : 0.06999999999999851
+ACDAClaimer - QRDAClaimer : 88.0
+The number of students who strictly prefer QRDA : 13
+instance: 27
+QRDABorda - ACDABorda : 0.6575000000000006
+ACDAClaimer - QRDAClaimer : 32.0
+The number of students who strictly prefer QRDA : 140
+instance: 28
+QRDABorda - ACDABorda : 0.192499999999999
+ACDAClaimer - QRDAClaimer : 87.0
+The number of students who strictly prefer QRDA : 37
+instance: 29
+QRDABorda - ACDABorda : 0.9637499999999992
+ACDAClaimer - QRDAClaimer : 222.0
+The number of students who strictly prefer QRDA : 171
+.instance: 30
+QRDABorda - ACDABorda : 0.1775000000000002
+ACDAClaimer - QRDAClaimer : 694.0
+The number of students who strictly prefer QRDA : 41
+instance: 31
+QRDABorda - ACDABorda : 0.8312500000000007
+ACDAClaimer - QRDAClaimer : 24.0
+The number of students who strictly prefer QRDA : 161
+instance: 32
+QRDABorda - ACDABorda : 0.3812500000000014
+ACDAClaimer - QRDAClaimer : 26.0
+The number of students who strictly prefer QRDA : 77
+instance: 33
+QRDABorda - ACDABorda : 0.0
+ACDAClaimer - QRDAClaimer : 0.0
+The number of students who strictly prefer QRDA : 0
+instance: 34
+QRDABorda - ACDABorda : 0.30874999999999986
+ACDAClaimer - QRDAClaimer : 22.0
+The number of students who strictly prefer QRDA : 61
+instance: 35
+QRDABorda - ACDABorda : 1.0512499999999996
+ACDAClaimer - QRDAClaimer : 201.0
+The number of students who strictly prefer QRDA : 189
+instance: 36
+QRDABorda - ACDABorda : 0.8462500000000013
+ACDAClaimer - QRDAClaimer : 38.0
+The number of students who strictly prefer QRDA : 140
+instance: 37
+QRDABorda - ACDABorda : 0.22000000000000064
+ACDAClaimer - QRDAClaimer : 161.0
+The number of students who strictly prefer QRDA : 47
+instance: 38
+QRDABorda - ACDABorda : 0.8950000000000014
+ACDAClaimer - QRDAClaimer : 60.0
+The number of students who strictly prefer QRDA : 181
+instance: 39
+QRDABorda - ACDABorda : 1.1175000000000015
+ACDAClaimer - QRDAClaimer : 87.0
+The number of students who strictly prefer QRDA : 212
+.instance: 40
+QRDABorda - ACDABorda : 1.0875000000000004
+ACDAClaimer - QRDAClaimer : 61.0
+The number of students who strictly prefer QRDA : 204
+instance: 41
+QRDABorda - ACDABorda : 1.205
+ACDAClaimer - QRDAClaimer : 728.0
+The number of students who strictly prefer QRDA : 231
+instance: 42
+QRDABorda - ACDABorda : 0.161249999999999
+ACDAClaimer - QRDAClaimer : 713.0
+The number of students who strictly prefer QRDA : 36
+instance: 43
+QRDABorda - ACDABorda : 0.3487500000000008
+ACDAClaimer - QRDAClaimer : 704.0
+The number of students who strictly prefer QRDA : 78
+instance: 44
+QRDABorda - ACDABorda : 0.9287500000000009
+ACDAClaimer - QRDAClaimer : 708.0
+The number of students who strictly prefer QRDA : 185
+instance: 45
+QRDABorda - ACDABorda : 0.4112500000000008
+ACDAClaimer - QRDAClaimer : 199.0
+The number of students who strictly prefer QRDA : 77
+instance: 46
+QRDABorda - ACDABorda : 0.875
+ACDAClaimer - QRDAClaimer : 118.0
+The number of students who strictly prefer QRDA : 170
+instance: 47
+QRDABorda - ACDABorda : 0.5587499999999999
+ACDAClaimer - QRDAClaimer : 28.0
+The number of students who strictly prefer QRDA : 112
+instance: 48
+QRDABorda - ACDABorda : 0.39500000000000135
+ACDAClaimer - QRDAClaimer : 23.0
+The number of students who strictly prefer QRDA : 77
+instance: 49
+QRDABorda - ACDABorda : 0.3587499999999988
+ACDAClaimer - QRDAClaimer : 24.0
+The number of students who strictly prefer QRDA : 75
+.instance: 50
+QRDABorda - ACDABorda : 0.7462499999999999
+ACDAClaimer - QRDAClaimer : 56.0
+The number of students who strictly prefer QRDA : 144
+instance: 51
+QRDABorda - ACDABorda : 1.09375
+ACDAClaimer - QRDAClaimer : 71.0
+The number of students who strictly prefer QRDA : 229
+instance: 52
+QRDABorda - ACDABorda : 0.2599999999999998
+ACDAClaimer - QRDAClaimer : 24.0
+The number of students who strictly prefer QRDA : 56
+instance: 53
+QRDABorda - ACDABorda : 0.7787500000000005
+ACDAClaimer - QRDAClaimer : 33.0
+The number of students who strictly prefer QRDA : 147
+instance: 54
+QRDABorda - ACDABorda : 0.8425000000000011
+ACDAClaimer - QRDAClaimer : 31.0
+The number of students who strictly prefer QRDA : 156
+instance: 55
+QRDABorda - ACDABorda : 0.6425000000000001
+ACDAClaimer - QRDAClaimer : 28.0
+The number of students who strictly prefer QRDA : 106
+instance: 56
+QRDABorda - ACDABorda : 0.3387499999999992
+ACDAClaimer - QRDAClaimer : 23.0
+The number of students who strictly prefer QRDA : 71
+instance: 57
+QRDABorda - ACDABorda : 0.9462500000000009
+ACDAClaimer - QRDAClaimer : 59.0
+The number of students who strictly prefer QRDA : 186
+instance: 58
+QRDABorda - ACDABorda : 1.1112499999999983
+ACDAClaimer - QRDAClaimer : 96.0
+The number of students who strictly prefer QRDA : 212
+instance: 59
+QRDABorda - ACDABorda : 0.7374999999999989
+ACDAClaimer - QRDAClaimer : 32.0
+The number of students who strictly prefer QRDA : 147
+.instance: 60
+QRDABorda - ACDABorda : 0.776250000000001
+ACDAClaimer - QRDAClaimer : 33.0
+The number of students who strictly prefer QRDA : 129
+instance: 61
+QRDABorda - ACDABorda : 0.6512499999999992
+ACDAClaimer - QRDAClaimer : 39.0
+The number of students who strictly prefer QRDA : 124
+instance: 62
+QRDABorda - ACDABorda : 0.30625000000000036
+ACDAClaimer - QRDAClaimer : 706.0
+The number of students who strictly prefer QRDA : 49
+instance: 63
+QRDABorda - ACDABorda : 0.7237500000000008
+ACDAClaimer - QRDAClaimer : 27.0
+The number of students who strictly prefer QRDA : 147
+instance: 64
+QRDABorda - ACDABorda : 0.41999999999999993
+ACDAClaimer - QRDAClaimer : 23.0
+The number of students who strictly prefer QRDA : 88
+instance: 65
+QRDABorda - ACDABorda : 0.30875000000000163
+ACDAClaimer - QRDAClaimer : 340.0
+The number of students who strictly prefer QRDA : 50
+instance: 66
+QRDABorda - ACDABorda : 0.9349999999999987
+ACDAClaimer - QRDAClaimer : 90.0
+The number of students who strictly prefer QRDA : 180
+instance: 67
+QRDABorda - ACDABorda : 0.0
+ACDAClaimer - QRDAClaimer : 0.0
+The number of students who strictly prefer QRDA : 0
+instance: 68
+QRDABorda - ACDABorda : 0.21250000000000036
+ACDAClaimer - QRDAClaimer : 26.0
+The number of students who strictly prefer QRDA : 49
+instance: 69
+QRDABorda - ACDABorda : 0.2624999999999993
+ACDAClaimer - QRDAClaimer : 104.0
+The number of students who strictly prefer QRDA : 52
+.instance: 70
+QRDABorda - ACDABorda : 0.8912499999999994
+ACDAClaimer - QRDAClaimer : 719.0
+The number of students who strictly prefer QRDA : 184
+instance: 71
+QRDABorda - ACDABorda : 0.9037500000000005
+ACDAClaimer - QRDAClaimer : 41.0
+The number of students who strictly prefer QRDA : 193
+instance: 72
+QRDABorda - ACDABorda : 0.38374999999999915
+ACDAClaimer - QRDAClaimer : 720.0
+The number of students who strictly prefer QRDA : 68
+instance: 73
+QRDABorda - ACDABorda : 0.6412499999999994
+ACDAClaimer - QRDAClaimer : 31.0
+The number of students who strictly prefer QRDA : 127
+instance: 74
+QRDABorda - ACDABorda : 0.24624999999999986
+ACDAClaimer - QRDAClaimer : 249.0
+The number of students who strictly prefer QRDA : 53
+instance: 75
+QRDABorda - ACDABorda : 0.8050000000000015
+ACDAClaimer - QRDAClaimer : 32.0
+The number of students who strictly prefer QRDA : 153
+instance: 76
+QRDABorda - ACDABorda : 0.3049999999999997
+ACDAClaimer - QRDAClaimer : 722.0
+The number of students who strictly prefer QRDA : 60
+instance: 77
+QRDABorda - ACDABorda : 0.30874999999999986
+ACDAClaimer - QRDAClaimer : 683.0
+The number of students who strictly prefer QRDA : 62
+instance: 78
+QRDABorda - ACDABorda : 0.6637500000000003
+ACDAClaimer - QRDAClaimer : 43.0
+The number of students who strictly prefer QRDA : 141
+instance: 79
+QRDABorda - ACDABorda : 0.07749999999999879
+ACDAClaimer - QRDAClaimer : 66.0
+The number of students who strictly prefer QRDA : 18
+.instance: 80
+QRDABorda - ACDABorda : 0.3699999999999992
+ACDAClaimer - QRDAClaimer : 23.0
+The number of students who strictly prefer QRDA : 68
+instance: 81
+QRDABorda - ACDABorda : 0.09999999999999964
+ACDAClaimer - QRDAClaimer : 44.0
+The number of students who strictly prefer QRDA : 26
+instance: 82
+QRDABorda - ACDABorda : 0.4637499999999992
+ACDAClaimer - QRDAClaimer : 26.0
+The number of students who strictly prefer QRDA : 98
+instance: 83
+QRDABorda - ACDABorda : 0.28749999999999964
+ACDAClaimer - QRDAClaimer : 732.0
+The number of students who strictly prefer QRDA : 52
+instance: 84
+QRDABorda - ACDABorda : 0.6612500000000008
+ACDAClaimer - QRDAClaimer : 29.0
+The number of students who strictly prefer QRDA : 142
+instance: 85
+QRDABorda - ACDABorda : 0.557500000000001
+ACDAClaimer - QRDAClaimer : 30.0
+The number of students who strictly prefer QRDA : 116
+instance: 86
+QRDABorda - ACDABorda : 0.9212500000000006
+ACDAClaimer - QRDAClaimer : 33.0
+The number of students who strictly prefer QRDA : 159
+instance: 87
+QRDABorda - ACDABorda : 0.3825000000000003
+ACDAClaimer - QRDAClaimer : 714.0
+The number of students who strictly prefer QRDA : 79
+instance: 88
+QRDABorda - ACDABorda : 0.7162500000000005
+ACDAClaimer - QRDAClaimer : 28.0
+The number of students who strictly prefer QRDA : 148
+instance: 89
+QRDABorda - ACDABorda : 0.40000000000000036
+ACDAClaimer - QRDAClaimer : 360.0
+The number of students who strictly prefer QRDA : 86
+.instance: 90
+QRDABorda - ACDABorda : 0.6925000000000008
+ACDAClaimer - QRDAClaimer : 36.0
+The number of students who strictly prefer QRDA : 141
+instance: 91
+QRDABorda - ACDABorda : 0.4925000000000015
+ACDAClaimer - QRDAClaimer : 24.0
+The number of students who strictly prefer QRDA : 94
+instance: 92
+QRDABorda - ACDABorda : 0.4599999999999991
+ACDAClaimer - QRDAClaimer : 22.0
+The number of students who strictly prefer QRDA : 97
+instance: 93
+QRDABorda - ACDABorda : 0.4762500000000003
+ACDAClaimer - QRDAClaimer : 24.0
+The number of students who strictly prefer QRDA : 94
+instance: 94
+QRDABorda - ACDABorda : 0.8637499999999996
+ACDAClaimer - QRDAClaimer : 45.0
+The number of students who strictly prefer QRDA : 170
+instance: 95
+QRDABorda - ACDABorda : 0.911249999999999
+ACDAClaimer - QRDAClaimer : 35.0
+The number of students who strictly prefer QRDA : 175
+instance: 96
+QRDABorda - ACDABorda : 0.6974999999999998
+ACDAClaimer - QRDAClaimer : 28.0
+The number of students who strictly prefer QRDA : 132
+instance: 97
+QRDABorda - ACDABorda : 0.4949999999999992
+ACDAClaimer - QRDAClaimer : 24.0
+The number of students who strictly prefer QRDA : 84
+instance: 98
+QRDABorda - ACDABorda : 0.375
+ACDAClaimer - QRDAClaimer : 28.0
+The number of students who strictly prefer QRDA : 72
+
+instance: 99
+QRDABorda - ACDABorda : 0.4662500000000005
+ACDAClaimer - QRDAClaimer : 27.0
+The number of students who strictly prefer QRDA : 81
+
+
+***BordaAve*** : 442.1699999999999
+
+
+***ClaimerAve*** : 156.9
+
+
+***WhichlikeAve*** : 0.13583750000000003
+ 

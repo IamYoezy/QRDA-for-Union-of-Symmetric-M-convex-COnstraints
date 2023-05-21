@@ -1,0 +1,410 @@
+.instance: 0
+QRDABorda - ACDABorda : 0.4450000000000003
+QRDAClaimer - ACDAClaimer : 329.0
+The ratio of students who strictly prefer QRDA : 159
+instance: 1
+QRDABorda - ACDABorda : 0.3412500000000023
+QRDAClaimer - ACDAClaimer : 82.0
+The ratio of students who strictly prefer QRDA : 132
+instance: 2
+QRDABorda - ACDABorda : 0.36625000000000085
+QRDAClaimer - ACDAClaimer : 102.0
+The ratio of students who strictly prefer QRDA : 148
+instance: 3
+QRDABorda - ACDABorda : 0.5112500000000004
+QRDAClaimer - ACDAClaimer : 471.0
+The ratio of students who strictly prefer QRDA : 183
+instance: 4
+QRDABorda - ACDABorda : 0.42499999999999716
+QRDAClaimer - ACDAClaimer : 438.0
+The ratio of students who strictly prefer QRDA : 188
+instance: 5
+QRDABorda - ACDABorda : 0.42125000000000057
+QRDAClaimer - ACDAClaimer : 167.0
+The ratio of students who strictly prefer QRDA : 177
+instance: 6
+QRDABorda - ACDABorda : 0.302500000000002
+QRDAClaimer - ACDAClaimer : 72.0
+The ratio of students who strictly prefer QRDA : 130
+instance: 7
+QRDABorda - ACDABorda : 0.5512499999999996
+QRDAClaimer - ACDAClaimer : 169.0
+The ratio of students who strictly prefer QRDA : 211
+instance: 8
+QRDABorda - ACDABorda : 0.4375
+QRDAClaimer - ACDAClaimer : 341.0
+The ratio of students who strictly prefer QRDA : 178
+instance: 9
+QRDABorda - ACDABorda : 0.4612499999999997
+QRDAClaimer - ACDAClaimer : 127.0
+The ratio of students who strictly prefer QRDA : 165
+.instance: 10
+QRDABorda - ACDABorda : 0.42249999999999943
+QRDAClaimer - ACDAClaimer : 219.0
+The ratio of students who strictly prefer QRDA : 191
+instance: 11
+QRDABorda - ACDABorda : 0.47499999999999787
+QRDAClaimer - ACDAClaimer : 175.0
+The ratio of students who strictly prefer QRDA : 188
+instance: 12
+QRDABorda - ACDABorda : 0.49250000000000327
+QRDAClaimer - ACDAClaimer : 362.0
+The ratio of students who strictly prefer QRDA : 193
+instance: 13
+QRDABorda - ACDABorda : 0.4887499999999996
+QRDAClaimer - ACDAClaimer : 284.0
+The ratio of students who strictly prefer QRDA : 190
+instance: 14
+QRDABorda - ACDABorda : 0.4262499999999996
+QRDAClaimer - ACDAClaimer : 104.0
+The ratio of students who strictly prefer QRDA : 158
+instance: 15
+QRDABorda - ACDABorda : 0.4549999999999983
+QRDAClaimer - ACDAClaimer : 420.0
+The ratio of students who strictly prefer QRDA : 168
+instance: 16
+QRDABorda - ACDABorda : 0.4299999999999997
+QRDAClaimer - ACDAClaimer : 285.0
+The ratio of students who strictly prefer QRDA : 178
+instance: 17
+QRDABorda - ACDABorda : 0.23499999999999943
+QRDAClaimer - ACDAClaimer : 63.0
+The ratio of students who strictly prefer QRDA : 95
+instance: 18
+QRDABorda - ACDABorda : 0.3762500000000024
+QRDAClaimer - ACDAClaimer : 123.0
+The ratio of students who strictly prefer QRDA : 159
+instance: 19
+QRDABorda - ACDABorda : 0.49375000000000213
+QRDAClaimer - ACDAClaimer : 156.0
+The ratio of students who strictly prefer QRDA : 207
+.instance: 20
+QRDABorda - ACDABorda : 0.5025000000000013
+QRDAClaimer - ACDAClaimer : 433.0
+The ratio of students who strictly prefer QRDA : 220
+instance: 21
+QRDABorda - ACDABorda : 0.3374999999999986
+QRDAClaimer - ACDAClaimer : 92.0
+The ratio of students who strictly prefer QRDA : 148
+instance: 22
+QRDABorda - ACDABorda : 0.5237499999999997
+QRDAClaimer - ACDAClaimer : 108.0
+The ratio of students who strictly prefer QRDA : 176
+instance: 23
+QRDABorda - ACDABorda : 0.3462500000000013
+QRDAClaimer - ACDAClaimer : 410.0
+The ratio of students who strictly prefer QRDA : 165
+instance: 24
+QRDABorda - ACDABorda : 0.45500000000000185
+QRDAClaimer - ACDAClaimer : 410.0
+The ratio of students who strictly prefer QRDA : 186
+instance: 25
+QRDABorda - ACDABorda : 0.30375000000000085
+QRDAClaimer - ACDAClaimer : 238.0
+The ratio of students who strictly prefer QRDA : 142
+instance: 26
+QRDABorda - ACDABorda : 0.4612499999999997
+QRDAClaimer - ACDAClaimer : 436.0
+The ratio of students who strictly prefer QRDA : 193
+instance: 27
+QRDABorda - ACDABorda : 0.002500000000001279
+QRDAClaimer - ACDAClaimer : 5.0
+The ratio of students who strictly prefer QRDA : 1
+instance: 28
+QRDABorda - ACDABorda : 0.44250000000000256
+QRDAClaimer - ACDAClaimer : 246.0
+The ratio of students who strictly prefer QRDA : 182
+instance: 29
+QRDABorda - ACDABorda : 0.3150000000000013
+QRDAClaimer - ACDAClaimer : 187.0
+The ratio of students who strictly prefer QRDA : 120
+.instance: 30
+QRDABorda - ACDABorda : 0.3625000000000007
+QRDAClaimer - ACDAClaimer : 124.0
+The ratio of students who strictly prefer QRDA : 144
+instance: 31
+QRDABorda - ACDABorda : 0.379999999999999
+QRDAClaimer - ACDAClaimer : 419.0
+The ratio of students who strictly prefer QRDA : 149
+instance: 32
+QRDABorda - ACDABorda : 0.38750000000000284
+QRDAClaimer - ACDAClaimer : 110.0
+The ratio of students who strictly prefer QRDA : 170
+instance: 33
+QRDABorda - ACDABorda : 0.5862499999999997
+QRDAClaimer - ACDAClaimer : 148.0
+The ratio of students who strictly prefer QRDA : 213
+instance: 34
+QRDABorda - ACDABorda : 0.3862500000000004
+QRDAClaimer - ACDAClaimer : 415.0
+The ratio of students who strictly prefer QRDA : 162
+instance: 35
+QRDABorda - ACDABorda : 0.4312499999999986
+QRDAClaimer - ACDAClaimer : 223.0
+The ratio of students who strictly prefer QRDA : 187
+instance: 36
+QRDABorda - ACDABorda : 0.37124999999999986
+QRDAClaimer - ACDAClaimer : 486.0
+The ratio of students who strictly prefer QRDA : 129
+instance: 37
+QRDABorda - ACDABorda : 0.6024999999999991
+QRDAClaimer - ACDAClaimer : 139.0
+The ratio of students who strictly prefer QRDA : 215
+instance: 38
+QRDABorda - ACDABorda : 0.2950000000000017
+QRDAClaimer - ACDAClaimer : 90.0
+The ratio of students who strictly prefer QRDA : 133
+instance: 39
+QRDABorda - ACDABorda : 0.2525000000000013
+QRDAClaimer - ACDAClaimer : 56.0
+The ratio of students who strictly prefer QRDA : 89
+.instance: 40
+QRDABorda - ACDABorda : 0.3512500000000003
+QRDAClaimer - ACDAClaimer : 90.0
+The ratio of students who strictly prefer QRDA : 137
+instance: 41
+QRDABorda - ACDABorda : 0.27749999999999986
+QRDAClaimer - ACDAClaimer : 66.0
+The ratio of students who strictly prefer QRDA : 101
+instance: 42
+QRDABorda - ACDABorda : 0.4574999999999996
+QRDAClaimer - ACDAClaimer : 133.0
+The ratio of students who strictly prefer QRDA : 185
+instance: 43
+QRDABorda - ACDABorda : 0.536249999999999
+QRDAClaimer - ACDAClaimer : 190.0
+The ratio of students who strictly prefer QRDA : 210
+instance: 44
+QRDABorda - ACDABorda : 0.46374999999999744
+QRDAClaimer - ACDAClaimer : 254.0
+The ratio of students who strictly prefer QRDA : 180
+instance: 45
+QRDABorda - ACDABorda : 0.23375000000000057
+QRDAClaimer - ACDAClaimer : 441.0
+The ratio of students who strictly prefer QRDA : 95
+instance: 46
+QRDABorda - ACDABorda : 0.4712500000000013
+QRDAClaimer - ACDAClaimer : 107.0
+The ratio of students who strictly prefer QRDA : 157
+instance: 47
+QRDABorda - ACDABorda : 0.33000000000000185
+QRDAClaimer - ACDAClaimer : 86.0
+The ratio of students who strictly prefer QRDA : 135
+instance: 48
+QRDABorda - ACDABorda : 0.4750000000000014
+QRDAClaimer - ACDAClaimer : 468.0
+The ratio of students who strictly prefer QRDA : 180
+instance: 49
+QRDABorda - ACDABorda : 0.42875000000000085
+QRDAClaimer - ACDAClaimer : 108.0
+The ratio of students who strictly prefer QRDA : 157
+.instance: 50
+QRDABorda - ACDABorda : 0.4812499999999993
+QRDAClaimer - ACDAClaimer : 281.0
+The ratio of students who strictly prefer QRDA : 203
+instance: 51
+QRDABorda - ACDABorda : 0.46499999999999986
+QRDAClaimer - ACDAClaimer : 88.0
+The ratio of students who strictly prefer QRDA : 163
+instance: 52
+QRDABorda - ACDABorda : 0.49875000000000114
+QRDAClaimer - ACDAClaimer : 200.0
+The ratio of students who strictly prefer QRDA : 179
+instance: 53
+QRDABorda - ACDABorda : 0.3687499999999986
+QRDAClaimer - ACDAClaimer : 95.0
+The ratio of students who strictly prefer QRDA : 149
+instance: 54
+QRDABorda - ACDABorda : 0.36999999999999744
+QRDAClaimer - ACDAClaimer : 185.0
+The ratio of students who strictly prefer QRDA : 147
+instance: 55
+QRDABorda - ACDABorda : 0.567499999999999
+QRDAClaimer - ACDAClaimer : 253.0
+The ratio of students who strictly prefer QRDA : 200
+instance: 56
+QRDABorda - ACDABorda : 0.3637499999999996
+QRDAClaimer - ACDAClaimer : 424.0
+The ratio of students who strictly prefer QRDA : 153
+instance: 57
+QRDABorda - ACDABorda : 0.5499999999999972
+QRDAClaimer - ACDAClaimer : 223.0
+The ratio of students who strictly prefer QRDA : 222
+instance: 58
+QRDABorda - ACDABorda : 0.33874999999999744
+QRDAClaimer - ACDAClaimer : 195.0
+The ratio of students who strictly prefer QRDA : 137
+instance: 59
+QRDABorda - ACDABorda : 0.4175000000000004
+QRDAClaimer - ACDAClaimer : 121.0
+The ratio of students who strictly prefer QRDA : 170
+.instance: 60
+QRDABorda - ACDABorda : 0.541249999999998
+QRDAClaimer - ACDAClaimer : 412.0
+The ratio of students who strictly prefer QRDA : 242
+instance: 61
+QRDABorda - ACDABorda : 0.3775000000000013
+QRDAClaimer - ACDAClaimer : 200.0
+The ratio of students who strictly prefer QRDA : 136
+instance: 62
+QRDABorda - ACDABorda : 0.14750000000000085
+QRDAClaimer - ACDAClaimer : 429.0
+The ratio of students who strictly prefer QRDA : 64
+instance: 63
+QRDABorda - ACDABorda : 0.2937499999999993
+QRDAClaimer - ACDAClaimer : 65.0
+The ratio of students who strictly prefer QRDA : 112
+instance: 64
+QRDABorda - ACDABorda : 0.40625
+QRDAClaimer - ACDAClaimer : 114.0
+The ratio of students who strictly prefer QRDA : 161
+instance: 65
+QRDABorda - ACDABorda : 0.41499999999999915
+QRDAClaimer - ACDAClaimer : 450.0
+The ratio of students who strictly prefer QRDA : 171
+instance: 66
+QRDABorda - ACDABorda : 0.42375000000000185
+QRDAClaimer - ACDAClaimer : 128.0
+The ratio of students who strictly prefer QRDA : 185
+instance: 67
+QRDABorda - ACDABorda : 0.3237500000000004
+QRDAClaimer - ACDAClaimer : 100.0
+The ratio of students who strictly prefer QRDA : 145
+instance: 68
+QRDABorda - ACDABorda : 0.4412499999999966
+QRDAClaimer - ACDAClaimer : 449.0
+The ratio of students who strictly prefer QRDA : 172
+instance: 69
+QRDABorda - ACDABorda : 0.5837499999999984
+QRDAClaimer - ACDAClaimer : 199.0
+The ratio of students who strictly prefer QRDA : 237
+.instance: 70
+QRDABorda - ACDABorda : 0.338750000000001
+QRDAClaimer - ACDAClaimer : 79.0
+The ratio of students who strictly prefer QRDA : 138
+instance: 71
+QRDABorda - ACDABorda : 0.4750000000000014
+QRDAClaimer - ACDAClaimer : 111.0
+The ratio of students who strictly prefer QRDA : 188
+instance: 72
+QRDABorda - ACDABorda : 0.547500000000003
+QRDAClaimer - ACDAClaimer : 139.0
+The ratio of students who strictly prefer QRDA : 206
+instance: 73
+QRDABorda - ACDABorda : 0.5550000000000033
+QRDAClaimer - ACDAClaimer : 114.0
+The ratio of students who strictly prefer QRDA : 186
+instance: 74
+QRDABorda - ACDABorda : 0.33500000000000085
+QRDAClaimer - ACDAClaimer : 180.0
+The ratio of students who strictly prefer QRDA : 160
+instance: 75
+QRDABorda - ACDABorda : 0.5562499999999986
+QRDAClaimer - ACDAClaimer : 431.0
+The ratio of students who strictly prefer QRDA : 222
+instance: 76
+QRDABorda - ACDABorda : 0.41499999999999915
+QRDAClaimer - ACDAClaimer : 112.0
+The ratio of students who strictly prefer QRDA : 169
+instance: 77
+QRDABorda - ACDABorda : 0.2562500000000014
+QRDAClaimer - ACDAClaimer : 347.0
+The ratio of students who strictly prefer QRDA : 93
+instance: 78
+QRDABorda - ACDABorda : 0.53125
+QRDAClaimer - ACDAClaimer : 190.0
+The ratio of students who strictly prefer QRDA : 192
+instance: 79
+QRDABorda - ACDABorda : 0.5075000000000003
+QRDAClaimer - ACDAClaimer : 260.0
+The ratio of students who strictly prefer QRDA : 216
+.instance: 80
+QRDABorda - ACDABorda : 0.3312500000000007
+QRDAClaimer - ACDAClaimer : 428.0
+The ratio of students who strictly prefer QRDA : 140
+instance: 81
+QRDABorda - ACDABorda : 0.36625000000000085
+QRDAClaimer - ACDAClaimer : 111.0
+The ratio of students who strictly prefer QRDA : 145
+instance: 82
+QRDABorda - ACDABorda : 0.6449999999999996
+QRDAClaimer - ACDAClaimer : 506.0
+The ratio of students who strictly prefer QRDA : 210
+instance: 83
+QRDABorda - ACDABorda : 0.39124999999999943
+QRDAClaimer - ACDAClaimer : 404.0
+The ratio of students who strictly prefer QRDA : 148
+instance: 84
+QRDABorda - ACDABorda : 0.46875
+QRDAClaimer - ACDAClaimer : 122.0
+The ratio of students who strictly prefer QRDA : 186
+instance: 85
+QRDABorda - ACDABorda : 0.43374999999999986
+QRDAClaimer - ACDAClaimer : 160.0
+The ratio of students who strictly prefer QRDA : 172
+instance: 86
+QRDABorda - ACDABorda : 0.4624999999999986
+QRDAClaimer - ACDAClaimer : 128.0
+The ratio of students who strictly prefer QRDA : 187
+instance: 87
+QRDABorda - ACDABorda : 0.3812500000000014
+QRDAClaimer - ACDAClaimer : 88.0
+The ratio of students who strictly prefer QRDA : 144
+instance: 88
+QRDABorda - ACDABorda : 0.44624999999999915
+QRDAClaimer - ACDAClaimer : 311.0
+The ratio of students who strictly prefer QRDA : 164
+instance: 89
+QRDABorda - ACDABorda : 0.5412500000000016
+QRDAClaimer - ACDAClaimer : 315.0
+The ratio of students who strictly prefer QRDA : 224
+.instance: 90
+QRDABorda - ACDABorda : 0.5250000000000021
+QRDAClaimer - ACDAClaimer : 121.0
+The ratio of students who strictly prefer QRDA : 200
+instance: 91
+QRDABorda - ACDABorda : 0.36125000000000185
+QRDAClaimer - ACDAClaimer : 439.0
+The ratio of students who strictly prefer QRDA : 154
+instance: 92
+QRDABorda - ACDABorda : 0.38874999999999815
+QRDAClaimer - ACDAClaimer : 107.0
+The ratio of students who strictly prefer QRDA : 161
+instance: 93
+QRDABorda - ACDABorda : 0.23375000000000057
+QRDAClaimer - ACDAClaimer : 76.0
+The ratio of students who strictly prefer QRDA : 104
+instance: 94
+QRDABorda - ACDABorda : 0.41125000000000256
+QRDAClaimer - ACDAClaimer : 212.0
+The ratio of students who strictly prefer QRDA : 159
+instance: 95
+QRDABorda - ACDABorda : 0.5987500000000026
+QRDAClaimer - ACDAClaimer : 473.0
+The ratio of students who strictly prefer QRDA : 245
+instance: 96
+QRDABorda - ACDABorda : 0.3987499999999997
+QRDAClaimer - ACDAClaimer : 90.0
+The ratio of students who strictly prefer QRDA : 148
+instance: 97
+QRDABorda - ACDABorda : 0.37875000000000014
+QRDAClaimer - ACDAClaimer : 373.0
+The ratio of students who strictly prefer QRDA : 173
+instance: 98
+QRDABorda - ACDABorda : 0.3362499999999997
+QRDAClaimer - ACDAClaimer : 91.0
+The ratio of students who strictly prefer QRDA : 135
+
+instance: 99
+QRDABorda - ACDABorda : 0.3500000000000014
+QRDAClaimer - ACDAClaimer : 100.0
+The ratio of students who strictly prefer QRDA : 142
+
+
+***BordaAve*** : 333.36000000000024
+
+
+***ClaimerAve*** : 224.36
+
+
+***WhichlikeAve*** : 0.206475
